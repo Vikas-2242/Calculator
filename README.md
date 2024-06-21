@@ -1,2 +1,2 @@
 # Calculator
-Using htm l+ css + javascript
+Using html + css + javascript
